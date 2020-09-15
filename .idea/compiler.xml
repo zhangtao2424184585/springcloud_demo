@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="zuul" />
+        <module name="memservice" />
+        <module name="orderservice2" />
+        <module name="system" />
+        <module name="eurekaserver" />
+        <module name="orderservice" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="eurekaserver" target="1.8" />
+      <module name="memservice" target="1.8" />
+      <module name="orderservice" target="1.8" />
+      <module name="orderservice2" target="1.8" />
+      <module name="system" target="1.8" />
+      <module name="zuul" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="eurekaserver" options="-parameters" />
+      <module name="memservice" options="-parameters" />
+      <module name="orderservice" options="-parameters" />
+      <module name="orderservice2" options="-parameters" />
+      <module name="system" options="-parameters" />
+      <module name="zuul" options="-parameters" />
+    </option>
+  </component>
+</project>

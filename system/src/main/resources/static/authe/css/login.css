@@ -1,0 +1,97 @@
+html,body{
+    height: 100%;
+    overflow: hidden;
+}
+.login{
+    height: 100%;
+    width: 100%;
+    background: url("../imgs/bg.png") center center no-repeat;
+       background-size: cover;
+    position: relative;
+}
+.login .left{
+    width: 50%;
+    height: calc(100% - 250px);
+    background: url("../imgs/e.png") center center no-repeat;
+       background-size: 100%;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translateY(-42%);
+
+}
+.login .top{
+    height: 180px;
+    position: absolute;
+    width: 100%;
+    z-index: 5;
+    top: 0;
+    padding-top: 25px;
+    text-align: center;
+    background: url("../imgs/top.png") center center no-repeat;
+       background-size: cover;
+    left: 0;
+}
+.login .bot{
+    text-align: center;
+    line-height:40px;
+    font-size: 16px;
+    color: rgba(198,224,250,.5);
+     height:40px;
+    background: rgba(21,120,206,.2);
+    position: absolute;
+    border-top: 1px solid #4eb1ec;
+    bottom: 0;
+    left: 0;
+    z-index: 5;
+    width: 100%;
+}
+.login .bot a{
+    color: rgba(198,224,250,.5);
+    margin: 0 10px;
+}
+.login .right{
+    padding:90px  70px 0;
+    width: 508px;
+    height: 526px;
+    position: absolute;
+    top:50%;
+    z-index: 9;
+    left: 50%;
+    color: rgba(198,224,250,.5);
+    margin: -222px 0 0 150px;
+    background: url("../imgs/kbg.png") center center no-repeat;
+       background-size: cover;
+}
+.login .right label{
+    font-size: 18px;
+    color: rgba(198,224,250,.5);
+    margin-bottom: 10px;
+}
+.login .right input{
+    height: 55px;
+    border: 0;
+    outline: none;
+    background: #10305a;
+    color: #fff;
+    font-size: 16px;
+}
+.login .right .form-group{
+    margin-bottom: 25px;
+}
+.login .right .btn{
+    height: 55px;
+    background: #d51323;
+    text-align: center;
+    color: #fff;
+    border-top: 1px solid #dd424f;
+    font-size: 18px;
+    line-height: 43px;
+}
+.login .right .fw{
+    font-size: 16px;
+    color: rgba(198,224,250,.5);
+}
+.login a:hover,.login a:focus{
+    text-decoration: none;
+}

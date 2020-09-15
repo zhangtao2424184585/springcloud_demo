@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6d35d9d-4b6f-4bc7-8c51-a65f45d782a3" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\M_mavren\M_mvnLib" />
+        <option name="userSettingsFile" value="D:\Program Files\JetBrains\IntelliJ IDEA 2019.2.4\plugins\maven\lib\maven3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectId" id="1gCrbeBfxkaBfqNi2EXIqOmG0FY" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/xixixi" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zt.orderservice2.web" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\springclouddemo\orderservice\src\main\java\com\zt\orderservice\web" />
+      <recent name="E:\springclouddemo\memservice\src\main\java\com\zt\memservice\web" />
+      <recent name="E:\springclouddemo\orderservice2\src\main\resources" />
+      <recent name="E:\springclouddemo\orderservice\src\main\resources" />
+      <recent name="E:\springclouddemo\memservice\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MemserviceApplication">
+    <configuration name="MemserviceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zt.memservice.MemserviceApplication" />
+      <module name="memservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zt.memservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Son" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zt.orderservice2.web.Son" />
+      <module name="orderservice2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zt.orderservice2.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZuulApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zt.zuul.ZuulApplication" />
+      <module name="zuul" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zt.zuul.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudserverApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloudserver" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zt.cloudserver.CloudserverApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaserverApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eurekaserver" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zt.eurekaserver.EurekaserverApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MemserviceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="memservice" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zt.memservice.MemserviceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Orderservice2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="orderservice2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zt.orderservice2.Orderservice2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderserviceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="orderservice" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zt.orderservice.OrderserviceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SystemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="system" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zt.system.SystemApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZuulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="zuul" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zt.zuul.ZuulApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Son" />
+        <item itemvalue="Application.MemserviceApplication" />
+        <item itemvalue="Application.ZuulApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6d35d9d-4b6f-4bc7-8c51-a65f45d782a3" name="Default Changelist" comment="" />
+      <created>1597629488352</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597629488352</updated>
+      <workItem from="1597629494987" duration="9795000" />
+      <workItem from="1597643324555" duration="8659000" />
+      <workItem from="1597657550386" duration="1775000" />
+      <workItem from="1597714258875" duration="1753000" />
+      <workItem from="1597716111288" duration="776000" />
+      <workItem from="1597717925195" duration="12502000" />
+      <workItem from="1597738250641" duration="942000" />
+      <workItem from="1597739218887" duration="9506000" />
+      <workItem from="1597801304554" duration="6933000" />
+      <workItem from="1597815403681" duration="1959000" />
+      <workItem from="1597818205861" duration="991000" />
+      <workItem from="1597819216381" duration="10239000" />
+      <workItem from="1597887149816" duration="7019000" />
+      <workItem from="1597906012482" duration="5731000" />
+      <workItem from="1597976418073" duration="4971000" />
+      <workItem from="1599014117237" duration="5921000" />
+      <workItem from="1600072407662" duration="228000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/memservice/src/main/java/com/zt/memservice/web/configer/UserNamePasswordFilter.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/springclouddemo$OrderserviceApplication.ic" NAME="OrderserviceApplication Coverage Results" MODIFIED="1597737005359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
